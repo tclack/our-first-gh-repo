@@ -1,2 +1,2 @@
 # Our First GitHub Repo
-ITProTV very first GitHub repository
+ITProTV Course - Very first GitHub repository
